@@ -1,11 +1,11 @@
 # Base configs
-baseurl: /profileflat
+baseurl:""
 
 # UI configs
-title: "Vatsal Mistry"
-author: "Vatsal Mistry"
-about: "A Pythonista"
+title: "Hardik Narendra"
+author: "Hardik Narendra"
+about: "Programmer"
 social_urls:
-  facebook: "https://www.facebook.com/mistryvatsal"
-  twitter: "https://www.twitter.com/mistryvatsal11"
-  instagram: "https://www.instagram.com/mistryvatsal42"
+  facebook: "https://www.facebook.com/Hardik Narendra"
+  twitter: "https://www.twitter.com/"
+  instagram: "https://www.instagram.com/"
